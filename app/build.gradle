@@ -50,4 +50,7 @@ dependencies {
     api 'com.google.dagger:dagger-android:2.25.4'
     api 'com.google.dagger:dagger-android-support:2.25.4' // if you use the support libraries
     annotationProcessor 'com.google.dagger:dagger-android-processor:2.25.4'
+    //InboxRecyclerView
+    implementation 'me.saket:inboxrecyclerview:2.0.0-beta3'
+
 }
